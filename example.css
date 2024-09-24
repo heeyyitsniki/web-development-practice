@@ -1,0 +1,12 @@
+body{
+	background-color:linen;
+}
+h1{
+	color:brown;
+	text-align:left;
+}
+p{
+	color:navy;
+	font-weight:400;
+	font-size:18px;
+}
